@@ -1,4 +1,4 @@
-project = 'PeacocktvGuide12'
+project = 'toshiba-printer-software-download'
 author = 'Your Name'
 release = '1.0'
 
